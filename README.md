@@ -13,5 +13,5 @@ are relayed, and after that they are replayed from the cache.
 
 2) https://github.com/iprockova/RelayServer
 
-RelayServer is an Java-based server that receives the advertisement requests and relays them to 
+RelayServer is an Java-based server application that receives advertisement requests and relays them to 
 the AdMob servers. The advertisement replies are sent to the mobile application from the RelayServer.
