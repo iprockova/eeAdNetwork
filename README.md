@@ -15,3 +15,5 @@ are relayed, and after that they are replayed from the cache.
 
 RelayServer is an Java-based server application that receives advertisement requests and relays them to 
 the AdMob servers. The advertisement replies are sent to the mobile application from the RelayServer.
+
+![alt tag](https://dl.dropboxusercontent.com/u/5141909/eeAdNetwork.jpg)
